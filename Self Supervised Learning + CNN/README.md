@@ -1,4 +1,3 @@
-Dataset Analysis and Preprocessing
 Data Preprocessing
 Initially, I conducted a brief statistical analysis. Specifically, I examined the number of images per class and found that some classes were underrepresented, with image counts ranging from 34 to over 500. To address this, I considered balancing the dataset to ensure more robust learning by the model.
 
